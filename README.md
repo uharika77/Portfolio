@@ -33,4 +33,4 @@ Open index.html in your preferred web browser.
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 # DEMO
-See here - [click here] (https://uharika77.github.io/Portfolio/)
+See here - [click here](https://uharika77.github.io/Portfolio/)
