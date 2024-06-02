@@ -2,11 +2,11 @@
 
 Welcome to my personal portfolio website! 🚀
 
-# Overview
+## Overview
 
 This website is a reflection of my journey, skills, and passion for coding. With a sleek design and intuitive navigation, it aims to provide visitors with a seamless experience as they explore different facets of my professional and academic life.
 
-# Features
+## Features
 
 Navigation Bar: Easily navigate through various sections of the website.
 
@@ -22,15 +22,15 @@ Awards Section: Learn about my academic excellence and other notable achievement
 
 Contact Section: Connect with me seamlessly through a contact form or my social profiles.
 
-# Getting Started
+## Getting Started
 
 Clone this repository: git clone https://github.com/uharika77/portfolio.git
 
 Open index.html in your preferred web browser.
 
-# Contributing
+## Contributing
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-# DEMO
+## DEMO
 [Click here](https://uharika77.github.io/Portfolio/)
