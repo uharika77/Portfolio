@@ -8,25 +8,25 @@ This website is a reflection of my journey, skills, and passion for coding. With
 
 ## Features
 
-- Navigation Bar: Easily navigate through various sections of the website.
+- **Navigation Bar**: Easily navigate through various sections of the website.
 
-- Home Section: Get a warm welcome and real-time insights into my current role or expertise.
+- **Home Section**: Get a warm welcome and real-time insights into my current role or expertise.
 
-- About Section: Dive into my academic journey, passion for coding, and focus on front-end development.
+- **About Section**: Dive into my academic journey, passion for coding, and focus on front-end development.
 
-- Projects Section: Explore a diverse range of projects, showcasing technical prowess and creativity.
+- **Projects Section**: Explore a diverse range of projects, showcasing technical prowess and creativity.
 
-- Skills Section: Beyond technical skills, discover my leadership roles and practical experiences.
+- **Skills Section**: Beyond technical skills, discover my leadership roles and practical experiences.
 
-- Awards Section: Learn about my academic excellence and other notable achievements.
+- **Awards Section**: Learn about my academic excellence and other notable achievements.
 
-- Contact Section: Connect with me seamlessly through a contact form or my social profiles.
+- **Contact Section**: Connect with me seamlessly through a contact form or my social profiles.
 
 ## Getting Started
 
-Clone this repository: git clone https://github.com/uharika77/Portfolio.git
+- **Clone this repository**: git clone https://github.com/uharika77/Portfolio.git
 
-Open index.html in your preferred web browser.
+- **Open index.html** in your preferred web browser.
 
 ## Contributing
 
