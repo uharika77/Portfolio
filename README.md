@@ -30,7 +30,11 @@ Open index.html in your preferred web browser.
 
 ## Contributing
 
-If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+If you encounter any issues or have suggestions for improvement:
+
+- **Open an issue**: Describe the problem or feature request.
+- **Submit a pull request**: Contribute directly to the codebase.
 
 ## DEMO
-[Click here](https://uharika77.github.io/Portfolio/)
+
+Explore the live [DEMO](https://uharika77.github.io/Portfolio/) of my portfolio
